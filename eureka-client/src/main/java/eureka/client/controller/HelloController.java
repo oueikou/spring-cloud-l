@@ -1,4 +1,4 @@
-package org.eureka.client.controller;
+package eureka.client.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.PathVariable;
